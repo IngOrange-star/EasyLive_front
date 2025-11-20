@@ -1,6 +1,6 @@
-# 🎥 EasyLive Front-End
+# 🎥 EasyLive Front
 
-> EasyLive 直播平台前端项目
+> EasyLive 高仿bilibili直播平台前端项目
 
 [![GitHub stars](https://img.shields.io/github/stars/IngOrange-star/EasyLive_front?style=social)](https://github.com/IngOrange-star/EasyLive_front)
 [![GitHub forks](https://img.shields.io/github/forks/IngOrange-star/EasyLive_front?style=social)](https://github.com/IngOrange-star/EasyLive_front)
@@ -19,12 +19,12 @@ EasyLive 是一个现代化的直播平台前端项目，提供流畅的直播�
 
 ## 🛠️ 技术栈
 
-- **前端框架**: [Vue 3 / React / 原生JS - 根据实际情况修改]
-- **构建工具**: [Vite / Webpack - 根据实际情况修改]
-- **UI 框架**: [Element Plus / Ant Design / 自定义 - 根据实际情况修改]
-- **状态管理**: [Pinia / Redux / Vuex - 根据实际情况修改]
+- **前端框架**: [Vue 3 / React / 原生JS ]
+- **构建工具**: [Vite / Webpack]
+- **UI 框架**: [Element Plus / Ant Design ]
+- **状态管理**: [Pinia / Redux / Vuex]
 - **HTTP 客户端**: Axios
-- **视频播放**: [Video.js / 其他播放器 - 根据实际情况修改]
+- **视频播放**: [Video.js / 其他播放器]
 
 ## 📦 项目结构
 
